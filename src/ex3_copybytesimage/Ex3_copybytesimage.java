@@ -100,7 +100,7 @@ public class Ex3_copybytesimage {
         /*
          C) copybytesimage2
          leer texto del ejercicio
-         Para usar los Buffered, desactivamos el código anteror de los
+         Para usar los Buffered (flujos/streams binarios), desactivamos el código anteror de los
          input/output sin buffer
          */
         FileInputStream leer2 = null;
